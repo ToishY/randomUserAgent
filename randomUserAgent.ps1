@@ -23,7 +23,7 @@
 
 Param(
     [Parameter(Mandatory=$false)]
-    [string]$file = 'user_agents.txt'
+    [string]$my_agents = 'user_agents.txt'
 )
 
 function getRandomUserAgent{
@@ -35,4 +35,4 @@ function getRandomUserAgent{
 }
 
 # Call randomString
-getRandomUserAgent -ua_file $file
+getRandomUserAgent -ua_file $my_agents
