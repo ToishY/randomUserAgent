@@ -8,9 +8,9 @@ Powershell script that gets a random user agent from text file.
 ```
 >Windows CMD
 ```sh
-powershell -executionpolicy bypass -File .\randomUserAgent.ps1
+powershell -executionpolicy bypass -File .\randomUserAgent.ps1 -my_agents "C:\Users\Kintoki\user_agents.txt"
 ```
 >Linux Terminal
 ```sh
-pwsh randomUserAgent.ps1 -file "C:\Users\Kintoki\user_agents.txt"
+pwsh randomUserAgent.ps1 -my_agents "C:\Users\Kintoki\user_agents.txt"
 ```
