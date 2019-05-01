@@ -5,7 +5,6 @@
 
     .PARAMETER file 
         The literal file path of the text file containing user-agents.
-        Default [int] 20.
 
     .EXAMPLE  
         .\randomUserAgent.ps1
