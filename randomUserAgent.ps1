@@ -14,8 +14,8 @@
 
     .NOTES 
         NAME:       randomUserAgent
-        AUTHOR:     ToishY
-        GIT:        https://github.com/ToishY/randomUserAgent
+        AUTHOR:     ToshY
+        GIT:        https://github.com/ToshY/randomUserAgent
         CREATED:    05/01/2019 
         LASTEDIT:   05/01/2019
         VERSION:    1.0
